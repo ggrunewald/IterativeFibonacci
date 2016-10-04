@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FibonacciIterativo</string>
+    <string name="fibonacci">Executar Fibonacci</string>
+    <string name="Resultado">Resultado:</string>
+    <string name="teste">teste</string>
+    <string name="zero">0</string>
+    <string name="indice">Índice a procurar:</string>
+</resources>
